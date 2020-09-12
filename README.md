@@ -31,7 +31,7 @@
   
 <p align="center"> 
   <i>Profile Visitor count</i><br>
-  <img src="https://profile-counter.glitch.me/abc/count.svg" />
+  <img src="https://profile-counter.glitch.me/azeemushan/count.svg" />
 </p>
 <!--Contact-Us-->
 <br>
