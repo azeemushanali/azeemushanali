@@ -19,7 +19,7 @@
     <i>I am currently learning Cloud & Container Technologies mainly AWS,Docker,Kubernetes </i></b> 
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> 
   <br><br>
-    <i>Also, do visit my Portfolio Website :<b> <a href="http://www.azeemushanali.ml/"><b>Azeemushan Ali</b></a> </i></b>
+    <i>Also, do visit my Portfolio Website :<b> <a href="http://www.azeemushanali.tech/"><b>Azeemushan Ali</b></a> </i></b>
 </p>
 
 
